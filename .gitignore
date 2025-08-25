@@ -41,3 +41,5 @@ yarn.lock
 
 .DS_Store
 Thumbs.db
+
+.idea/compiler.xml
